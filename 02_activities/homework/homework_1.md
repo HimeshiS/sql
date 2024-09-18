@@ -78,6 +78,7 @@ Please do not pick the exact same tables that I have already diagramed. For exam
 
 **ANSWER**
 A logical model of farmersmarket.db (partial)
-![alt text](sql_homework_1.jpg)
+![sql_homework_1](https://github.com/user-attachments/assets/cc6dd954-3650-40fd-965b-d457ac09d7ec)
+
 
 
